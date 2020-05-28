@@ -1,5 +1,7 @@
 # Webinar z JavaScript: Programowanie Obiektowe - snippety
 
+> Nagranie do webinaru znajdziesz pod adresem: [devmentor.pl/webinar](https://devmentor.pl/webinar).
+
 ## Obiekt tworzony przy pomocy literału
 
 ```
